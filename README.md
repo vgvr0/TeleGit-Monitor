@@ -50,7 +50,7 @@ cp .env.example .env
 
 1. Inicia el bot:
 ```bash
-python bot.py
+python telegit.py
 ```
 
 2. En Telegram, usa los siguientes comandos:
